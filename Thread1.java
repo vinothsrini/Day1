@@ -1,6 +1,4 @@
 Introduction:
-
-
 Two ways to define a Threading
 	1)By extending Thread class
 	2)By implementing Runnable(I)
